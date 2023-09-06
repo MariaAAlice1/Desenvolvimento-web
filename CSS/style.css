@@ -1,0 +1,20 @@
+ h1 {
+    /*muda a cor do fundo*/
+    background-color: yellow;
+    /*tamanho de fonte*/
+    font-size: 18px;
+    /*Tipo da fonte*/
+    width: 100%;
+    /*Alinhamento do texto*/
+    height: 50px;
+    text-align: center;
+    /*Espaçamento das letras*/
+    letter-spacing: 0.4rem;
+    /*cor do texto*/
+    color: aqua;
+    /*Espaçamento interno (parte superior)*/
+    padding-top: 15px;
+    /*Como a caixa vai ser formada*/
+    box-sizing: border-box;
+
+}
